@@ -13,7 +13,7 @@ Provide an overview of some projects you have worked on. This could include prof
 
 ### Project 1: ReadyTuber AI
 
-![Potato Scanned](./potato_scanned.jpeg =200x400)
+<img src="./potato_scanned.jpeg" width="200" height="400" />
 
 Have you ever tried to grow potatoes? It's pretty easy—they don't have complex requirements for soil, watering, or sunlight. But they _do_ grow undergroud, making it very tough to tell when they're ready or not.
 
