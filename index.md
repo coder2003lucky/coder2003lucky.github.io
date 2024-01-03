@@ -25,11 +25,11 @@ Internally, the app has two main components: a custom YOLOv8 that identifies the
 
 My initial approach only employed YOLO. However, YOLO's performance was underwhelming, yielding only about 50% accuracy—no better than random chance. In retrospect, I realized why. YOLO, typically adept at identifying distinct objects quickly, struggled to differentiate between similar elements in each image, such as leaves, stems, and dirt.
 
-![The YOLO model incorrectly identifies these recently planted onion plants as ready, and also not ready. This run demonstrates YOLO’s inability to distinguish between similar objects](onion_why_yolo_bad.jpeg)
+<img src="./onion_why_yolo_bad.jpeg" width="300" height="400" />
 
 Realizing the need for a more tailored solution, I pivoted to creating a custom model using TensorFlow. This shift demanded a complete reevaluation of the model's components and their layout. Despite the limited dataset (only 140 images for onion plants) and the inherent complexity of distinguishing subtle variations in tubers, the new model has over 80% accuracy and precision. This breakthrough is pretty significant, especially considering the functional challenges and the similarity in visual cues across images.
 
-![ReadyTuber AI Homescreen](homescreen.png =200x400)
+<img src="./homescreen.png" width="200" height="400" />
 
 The journey wasn't without its hurdles. Data scarcity was a major obstacle; organized, pre-labeled datasets for this niche application were non-existent. Manually labeling images was a tedious and time-consuming task, often complicated by the ambiguous nature of tuber maturity. Additionally, many images were of poor quality or lacked variability in factors like lighting.
 
