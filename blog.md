@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Medium Posts"
 ---
 
 {% if site.show_excerpts %}
