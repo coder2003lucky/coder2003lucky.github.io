@@ -5,6 +5,10 @@ title: ""
 
 Hi! I'm Prarthan, a high school senior in the Bay Area. With a solid background in coding, I'm particularly interested in projects around **AI and the brain**.
 
+<div style="text-align: right;">
+    <img src="./prarthan_good_pic.jpg" width="200" height="400"/>
+</div>
+
 In addition to my academic interests, I have a keen interest in chess, debate, and piano.
 
 ## Example Projects
