@@ -9,7 +9,7 @@ Hi! I'm Prarthan, a high school senior in the Bay Area. With a solid background 
     <img src="./prarthan_good_pic.jpg" width="200" height="300"/>
 </div>
 
-In addition to my academic interests, I have a keen interest in chess, debate, and piano.
+In addition to my academic interests, I have a keen interest in writing, chess, debate, and piano.
 
 ## Example Projects
 
