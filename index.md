@@ -24,7 +24,7 @@ Have you ever tried to grow potatoes? It's pretty easy—-they don't have comple
 
 I would know—-during the pandemic, I tried to grow potatoes. 3 times I tried, 3 times I pulled them up prematurely. 
 
-This problem inspired my 2022 science fair project (I got 2nd in Senior Plant Biology at CSEF!), and culminated intoReadyTuber AI. Just take a simple picture of a plant, and the app will tell you whether the plant is ready or not!
+This problem inspired my 2022 science fair project (I got 2nd in Senior Plant Biology at CSEF!), and culminated into ReadyTuber AI. Just take a simple picture of a plant, and the app will tell you whether the plant is ready or not!
 
 Internally, the app has two main components: a custom YOLOv8 that identifies the plant, and a model built in TensorFlow that classifies the plant as "ready" or "not ready."
 
