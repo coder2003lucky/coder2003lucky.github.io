@@ -53,7 +53,7 @@ categories: media
 
 <div class="medium-post">
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JXkigo5_AaDPvxd7OelW_Q.png" alt="Robots Be Human Article Image">
-    <h2>Will Robots Ever Be Human</h2>
+    <h2>Will Robots Ever Be Human?</h2>
     <p>Is there an ethical imperative to treat robots as human? Will they deserve the same rights as us?</p>
     <a href="https://medium.com/forum-for-ethical-technology-advancement/will-robots-ever-be-humans-73f87619a3f4" target="_blank">Read More</a>
 </div>
