@@ -52,8 +52,8 @@ categories: media
 <body>
 
 <div class="medium-post">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*g4H-zooTrlM99vk4.jpg" alt="Tech Titans Article Image">
-    <h2>Tech Titans Descended on Washington: Are We Ready?</h2>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*g4H-zooTrlM99vk4.jpg" alt="Employee Monitoring Tech Article Image">
+    <h2>We Need To Talk About Employee Monitoring Tech</h2>
     <p>The future of employee monitoring tech should concern us all.</p>
     <a href="https://medium.com/forum-for-ethical-technology-advancement/we-need-to-talk-about-employee-monitoring-tech-381314b49906" target="_blank">Read More</a>
 </div>
