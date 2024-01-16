@@ -17,7 +17,7 @@ Here are some of my projects! A lot of my projects are personal explorations, an
 
 ### Project 1: ReadyTuber AI
 <div style="text-align: center;">
-    <img src="./potato_scanned.jpeg" width="200" height="400" style="border:2px solid black;"/>
+    <img src="./potato_scanned.png" width="200" height="400" style="border:2px solid black;"/>
 </div>
 
 Have you ever tried to grow potatoes? It's pretty easy—-they don't have complex requirements for soil, watering, or sunlight. But they _do_ grow undergroud, making it very tough to tell when they're ready or not.
