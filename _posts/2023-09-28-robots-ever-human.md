@@ -1,4 +1,3 @@
-![image](https://github.com/coder2003lucky/coder2003lucky.github.io/assets/88560765/fe432e5d-561f-48ce-9025-6a37aa10501f)---
 title:  "The New Epoch Of The Digital Age"
 mathjax: true
 layout: post
