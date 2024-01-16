@@ -50,3 +50,10 @@ I'm an intern at the <a href="https://roybens.faculty.ucdavis.edu/"> Ben-Shalom 
 Beginning since my sophomore year, my work in the lab has involved working on a <a href="https://www.frontiersin.org/articles/10.3389/fninf.2022.882552/full">genetic algorithm</a> (GA) that convexifies the parameter spaces of single-cell biophysical neuronal models. Fundamentally, a neuron's excitability is determined by the conductance of ion channels along its membrane. Some neurological disorders like myotonia, epilepsy, and developmental delays are caused by disruptions of these channels—therefore, reverse engineering neuronal excitability through these models will increase understanding and treatments for these neurological conditions.
 
 There's a lot I've been doing, but what's reflected in published work (so far!) is my contribution to implementing linear, lasso, and ridge regression to validate the GA’s minimization function inside of its objective function. This work contributed to a presentation at the <a href="https://www.abstractsonline.com/pp8/#!/10619/presentation/74215">Neuroscience 2022 Conference</a>.
+
+### Blog Posts
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
