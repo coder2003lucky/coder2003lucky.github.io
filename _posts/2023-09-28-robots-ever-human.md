@@ -1,3 +1,4 @@
+---
 title:  "The New Epoch Of The Digital Age"
 mathjax: true
 layout: post
