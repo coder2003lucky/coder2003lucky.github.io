@@ -5,17 +5,17 @@ title: ""
 
 Hi! I'm Prarthan, a high school senior in the Bay Area. With a solid background in coding, I'm particularly interested in projects around **AI and the brain**.
 
-<div style="text-align: right;">
+<div style="text-align: center;">
     <img src="./prarthan_good_pic.jpg" width="200" height="300"/>
 </div>
 
 In addition to my academic interests, I have a keen interest in writing, chess, debate, and piano.
 
-## Example Projects
+## Example Project(s)
 
-Here are some of my projects! A lot of my projects are personal explorations, and not really designed to share with the world--but here a few which are!
+Here are some of my projects! A lot of my projects are personal explorations, and not really designed to share with the world--but here's one which is!
 
-### Project 1: ReadyTuber AI
+### ReadyTuber AI
 <div style="text-align: center;">
     <img src="./potato_scanned.png" width="200" height="400" style="border:2px solid black;"/>
 </div>
@@ -44,16 +44,9 @@ The journey wasn't without its hurdles. Data scarcity was a major obstacle; orga
 
 Despite these challenges, the project was a success, meeting my engineering goals for all three targeted plants: potatoes, onions, and radishes. The app has been in review for a couple of weeks now, and I hope that it'll be available on the App Store soon!
 
-### Project 2: [Project Title]
+### Research Internship
+I'm an intern at the <a href="https://roybens.faculty.ucdavis.edu/"> Ben-Shalom Lab</a> at UC Davis!
 
-[Short Description of Project 2]
+Beginning since my sophomore year, my work in the lab has involved working on a <a href="https://www.frontiersin.org/articles/10.3389/fninf.2022.882552/full">genetic algorithm</a> (GA) that convexifies the parameter spaces of single-cell biophysical neuronal models. Fundamentally, a neuron's excitability is determined by the conductance of ion channels along its membrane. Some neurological disorders like myotonia, epilepsy, and developmental delays are caused by disruptions of these channels—therefore, reverse engineering neuronal excitability through these models will increase understanding and treatments for these neurological conditions.
 
-- [Link to Project 2 or an Image]
-
-### Project 3: [Project Title]
-
-[Short Description of Project 3]
-
-- [Link to Project 3 or an Image]
-
-## Research
+There's a lot I've been doing, but what's reflected in published work (so far!) is my contribution to implementing linear, lasso, and ridge regression to validate the GA’s minimization function inside of its objective function. This work contributed to a presentation at the <a href="https://www.abstractsonline.com/pp8/#!/10619/presentation/74215">Neuroscience 2022 Conference</a>.
